@@ -1,6 +1,7 @@
 # RQC-Hamiltonian-Cartan-Decomposition
 
 Список литературы:
+
 I. Квантовое разложение Шэннона и картановские разложения:
 1. http://arxiv.org/abs/0806.4015
 2. http://arxiv.org/abs/quant-ph/0403141
